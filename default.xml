@@ -24,6 +24,6 @@
   <project name="titles-cubetest" remote="magiclantern" revision="master" />
 
 <!-- Documentation -->
-  <project name="mle-documentation" remote="magiclanternstudio" revision="master" />
+  <project name="mle-documentation" remote="magiclantern" revision="master" />
 
 </manifest>
